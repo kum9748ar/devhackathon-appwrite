@@ -1,0 +1,33 @@
+@import "../node_modules/bootstrap/dist/css/bootstrap.css";
+/*LOGIN & SIGNUP */
+.signup_container,
+.login_container {
+  max-width: 480px;
+  padding: 2rem;
+}
+.form-floating {
+  margin: 1rem;
+}
+.form-floating label {
+  padding: 2.5px;
+}
+.askonce {
+  padding: 1rem;
+}
+/* HOME  */
+.home_container label {
+  font-size: 2rem;
+  padding: 1rem;
+}
+#gettodobtn {
+margin: 1rem;
+}
+
+li{
+  list-style: none;
+}
+.todos{
+  padding: auto;
+  margin: 1.5px;
+  font-size: 16px;
+}
